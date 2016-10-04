@@ -44,7 +44,7 @@
 
 
 			
-		if ($de_rss): echo '<a href="'.$de_rss.'" target="_blank"><img src="http://starhillfarms.wpengine.com/wp-content/uploads/2015/01/tad.png"/></a>';endif;
+		if ($de_rss): echo '<a href="'.$de_rss.'" target="_blank"><img src="http://starhillfarms.wpengine.com/wp-content/uploads/2015/01/tad.png" id="tripadvisor"/></a>';endif;
 		if ($de_twitter): echo '<a href="http://twitter.com/'.$de_twitter.'"><img src="'.get_template_directory_uri().'/images/social-icons/twitter.png"/></a>';endif;
 		if ($de_facebook): echo '<a href="http://facebook.com/'.$de_facebook.'" target="blank"><img src="'.get_template_directory_uri().'/images/social-icons/facebook.png"/ id="facebook-icon"></a>';endif;
 		if ($de_gplus): echo '<a href="https://plus.google.com/'.$de_gplus.'"><img src="'.get_template_directory_uri().'/images/social-icons/gplus.png"/></a>';endif;

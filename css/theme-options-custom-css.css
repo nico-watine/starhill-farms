@@ -32,11 +32,11 @@ max-width: auto !important;
 width: auto !important;
 }
 
-.pp_description {
+/*.pp_description {
 display: block !important;
-}
+}*/
 
-a#snc-credit {
+/*a#snc-credit {
   text-decoration: none;
   color: #888;
   font-size: 10px;
@@ -47,4 +47,4 @@ a#snc-credit {
     text-decoration: underline; }
   a#snc-credit:hover {
     color: #000;
-    text-decoration: underline; }
+    text-decoration: underline; }*/

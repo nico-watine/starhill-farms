@@ -76,9 +76,9 @@
 			$de_yelp = isset($de_data['DE_yelp']) ? $de_data['DE_yelp'] : null;
 			$de_foursquare = isset($de_data['DE_foursquare']) ? $de_data['DE_foursquare'] : null;
 			
-		if ($de_rss): echo '<a href="'.$de_rss.'"><img src="'.get_template_directory_uri().'/images/social-icons/rss.png"/></a>';endif;
+		if ($de_rss): echo '<a href="'.$de_rss.'" target="_blank"><img src="http://starhillfarms.wpengine.com/wp-content/uploads/2015/01/tad.png" id="tripadvisor"/></a>';endif;
 		if ($de_twitter): echo '<a href="http://twitter.com/'.$de_twitter.'"><img src="'.get_template_directory_uri().'/images/social-icons/twitter.png"/></a>';endif;
-		if ($de_facebook): echo '<a href="http://facebook.com/'.$de_facebook.'"><img src="'.get_template_directory_uri().'/images/social-icons/facebook.png"/></a>';endif;
+		if ($de_facebook): echo '<a href="http://facebook.com/'.$de_facebook.'" target="blank"><img src="'.get_template_directory_uri().'/images/social-icons/facebook.png"/ id="facebook-icon"></a>';endif;
 		if ($de_gplus): echo '<a href="https://plus.google.com/'.$de_gplus.'"><img src="'.get_template_directory_uri().'/images/social-icons/gplus.png"/></a>';endif;
 		if ($de_vimeo): echo '<a href="http://vimeo.com/'.$de_vimeo.'"><img src="'.get_template_directory_uri().'/images/social-icons/vimeo.png"/></a>';endif;
 		if ($de_youtube): echo '<a href="http://youtube.com/'.$de_youtube.'"><img src="'.get_template_directory_uri().'/images/social-icons/youtube.png"/></a>';endif;
@@ -87,7 +87,7 @@
 		if ($de_deviantart): echo '<a href="http://'.$de_deviantart.'.deviantart.com/"><img src="'.get_template_directory_uri().'/images/social-icons/deviantart.png"/></a>';endif;
 		if ($de_dribbble): echo '<a href="http://dribbble.com/'.$de_dribbble.'"><img src="'.get_template_directory_uri().'/images/social-icons/dribbble.png"/></a>';endif;
 		if ($de_digg): echo '<a href="'.$de_digg.'"><img src="'.get_template_directory_uri().'/images/social-icons/digg.png"/></a>';endif;
-		if ($de_instagram): echo '<a href="http://instagram.com/'.$de_instagram.'"><img src="'.get_template_directory_uri().'/images/social-icons/instagram.png"/></a>';endif;
+		if ($de_instagram): echo '<a href="http://instagram.com/'.$de_instagram.'" target="blank"><img src="'.get_template_directory_uri().'/images/social-icons/instagram.png" id="instagram-icon" /></a>';endif;
 		if ($de_linkedin): echo '<a href="'.$de_linkedin.'"><img src="'.get_template_directory_uri().'/images/social-icons/linkedin.png"/></a>';endif;
 		if ($de_lastfm): echo '<a href="http://last.fm/music/'.$de_lastfm.'"><img src="'.get_template_directory_uri().'/images/social-icons/lastfm.png"/></a>';endif;
 		if ($de_myspace): echo '<a href="http://myspace.com/'.$de_myspace.'"><img src="'.get_template_directory_uri().'/images/social-icons/myspace.png"/></a>';endif;

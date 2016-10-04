@@ -1,8 +1,8 @@
 /*
 
-Theme Name: Vierra-child
+Theme Name: Vierra-Child 2.1.1
 Theme URI: http://vierra.themenesia.com
-Description: Child Theme for Vierra
+Description: Child Theme for Vierra 2.1.1
 Author: Designesia
 Author URI: http://themeforest.net/user/designesia/
 Tags: brown, purple, two-columns, custom-background
@@ -73,17 +73,19 @@ visibility: hidden !important;
 font-size: 30px;
 }
 
-#mainlogo img {
-height: 85px !important;
+header #mainlogo img {
+	max-height: 80px;
 }
 
-#mainlogo .inner {
-padding: 0 !important;
-}
+@media (max-width: 992px) {
+	header #mainlogo .inner {
+		height: auto;
+		padding-top: 0;
+	}
 
-div.col-md-3.logo-container {
-text-align: center;
-padding-right: 0;
+	header #mainlogo img {
+		max-height: 62px;
+	}
 }
 
 .activities p {

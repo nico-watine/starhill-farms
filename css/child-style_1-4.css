@@ -18,11 +18,13 @@ Template: vierra
 .btn-book-now {
 	margin-bottom:30px;
 }
+
 .btn-book-now .off{
 	display:none;
 }
 
-.room-list.type-1 .btn-custom, .single-room .btn-book-now{
+.room-list.type-1 .btn-custom, 
+.single-room .btn-book-now{
 	display:block;
 	text-align:center;
 	text-transform:uppercase;
@@ -30,7 +32,9 @@ Template: vierra
 	color:#fff;
 	background:#513D32;
 	padding:10px 0 10px 0;
-	border-radius:none !important; -moz-border-radius:none; -webkit-border-radius:none;
+	border-radius:none !important; 
+	-moz-border-radius:none; 
+	-webkit-border-radius:none;
 	text-shadow:none;
 }
 
@@ -43,10 +47,6 @@ background: none;
 .single-room #btn-book-now:hover {
 background: #862f1d;
 }
-
-/*.de-menu {
-text-transform: none !important;
-}*/
 
 a.flex-next,
 a.flex-prev {
@@ -87,7 +87,6 @@ padding-right: 0;
 }
 
 .activities p {
-/*font-size: 15px;*/
 margin-top: -7px;
 }
 
@@ -107,172 +106,6 @@ ul.sub-list {
 list-style-type: disc;
 padding-left: 23px;
 }
-
-/*ul.parent-list {
-padding-left: 23px;
-}*/
-
-.antiques h4 {
-font-size: 23px;
-text-align: center;
-line-height: 30px;
-}
-
-.about-p,
-.policies,
-.contact {
-font-size: 15px;
-line-height: 26px;
-}
-
-.about-h {
-text-align: center;
-margin-bottom: 20px;
-}
-
-.policies span,
-.contact span {
-font-weight: bolder;
-}
-
-.contact {
-text-align: center
-}
-
-.de_tab .de_nav li a.active {
-	color: #333333 !important;
-}
-
-.de_tab .de_nav li a {
-	color: #6e936b !important;
-}
-
-.de_tab .de_nav li a:hover {
-	background: #fff !important;
-}
-
-img.size-full.wp-image-471 {
-	margin: 0 auto;
-}
-
-.room-list.type-1 .info {
-	height: 300px;
-}
-
-/*
-
-Theme Name: Vierra-child
-Theme URI: http://vierra.themenesia.com
-Description: Child Theme for Vierra
-Author: Designesia
-Author URI: http://themeforest.net/user/designesia/
-Tags: brown, purple, two-columns, custom-background
-Template: vierra
-
-*/
-
-@import url("../vierra/css/style.css");
-
-
-/* insert your custom css code here */
-
-.btn-book-now {
-	margin-bottom:30px;
-}
-.btn-book-now .off{
-	display:none;
-}
-
-.room-list.type-1 .btn-custom, .single-room .btn-book-now{
-	display:block;
-	text-align:center;
-	text-transform:uppercase;
-	letter-spacing:3px;
-	color:#fff;
-	background:#513D32;
-	padding:10px 0 10px 0;
-	border-radius:none !important; -moz-border-radius:none; -webkit-border-radius:none;
-	text-shadow:none;
-}
-
-div#canvas,
-div.bg_pattern {
-background: none;
-}
-
-.room-list.type-1 .btn-custom:hover, 
-.single-room #btn-book-now:hover {
-background: #862f1d;
-}
-
-/*.de-menu {
-text-transform: none !important;
-}*/
-
-a.flex-next,
-a.flex-prev {
-opacity: 1 !important;
-}
-
-a#prevslide.load-item,
-a#nextslide.load-item,
-span#pauseplay.play,
-span#pauseplay.play.pause {
-opacity: 1 !important;
-}
-
-div.col-md-9.menu-container {
-padding-left: 0 !important;
-}
-
-.title-room-facilites {
-display: none !important;
-visibility: hidden !important;
-}
-
-.page-inner h3 {
-font-size: 30px;
-}
-
-#mainlogo img {
-height: 85px !important;
-}
-
-#mainlogo .inner {
-padding: 0 !important;
-}
-
-div.col-md-3.logo-container {
-text-align: center;
-padding-right: 0;
-}
-
-.activities p {
-/*font-size: 15px;*/
-margin-top: -7px;
-}
-
-.activities h4 {
-font-weight: bold;
-}
-
-.activities ul {
-list-style-type: circle;
-}
-
-.activities ul li {
-font-size: 15px;
-margin-bottom: 0 !important;
-}
-
-ul.sub-list {
-list-style-type: disc;
-padding-left: 23px;
-}
-
-/*ul.parent-list {
-padding-left: 23px;
-}*/
 
 .antiques h4 {
 font-size: 23px;
@@ -337,5 +170,3 @@ a#snc-credit {
   a#snc-credit:hover {
     color: #000;
     text-decoration: underline; }
-
-

@@ -184,7 +184,6 @@
 	?>
                     </ul>
                 <?php  if(get_post_meta($post->ID, 'price', true)): ?>
-                <hr />
                 <div class="price">
 				<h3><?php  $price = get_post_meta($post->ID, 'price', true); echo __($price,'Vierra'); ?></h3>
                 <span>/ <?php  echo __('night','Vierra'); ?></span>
@@ -192,7 +191,7 @@
                 <?php  endif; ?>  
                 </div>
                 <div class="totop">
-				<a href="#canvas" id="btn-book-now" class="btn-custom"><i class="fa fa-calendar"></i><span class="on"><?php  echo __('Book Now','Vierra'); ?></span><span class="off"><?php  echo __('Hide Booking Form','Vierra'); ?></span></a>
+				<a href="https://reserve4.resnexus.com/resnexus/reservations/lodging/78C4C5DD-3C8E-4A79-8F06-ECAB8E395F96" class="btn-custom btn-book-now"><i class="fa fa-calendar"></i><?php  echo __('Reserve Now','Vierra'); ?></a>
                 </div>
             </div>
             <!-- ********** menu info *********** -->

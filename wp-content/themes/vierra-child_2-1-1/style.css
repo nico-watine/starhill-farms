@@ -1,8 +1,8 @@
 /*
 
-Theme Name: Vierra-Child 2.1.1
+Theme Name: Vierra-child
 Theme URI: http://vierra.themenesia.com
-Description: Child Theme for Vierra 2.1.1
+Description: Child Theme for Vierra
 Author: Designesia
 Author URI: http://themeforest.net/user/designesia/
 Tags: brown, purple, two-columns, custom-background
@@ -173,8 +173,6 @@ a#snc-credit {
     color: #000;
     text-decoration: underline; }
 
-/*BELOW ARE LINES TAKEN FROM CUSTOM-CSS WITHIN THEME OPTIONS PANEL ::*/
-
 .de-menu li li {    font-family:Lato;}
 
 .de-menu li li {    font-size: 16px}
@@ -182,7 +180,9 @@ a#snc-credit {
 a.btn,a.btn-custom{
 background:#006826 !important;}
 
-span.overlay{background-color:#006826;}
+span.overlay{
+	background-color:#006826 !important;
+}
 
 .de-menu {
 text-transform: none !important;

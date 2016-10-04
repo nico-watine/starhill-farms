@@ -170,3 +170,40 @@ a#snc-credit {
   a#snc-credit:hover {
     color: #000;
     text-decoration: underline; }
+
+/*BELOW ARE LINES TAKEN FROM CUSTOM-CSS WITHIN THEME OPTIONS PANEL ::*/
+
+.de-menu li li {    font-family:Lato;}
+
+.de-menu li li {    font-size: 16px}
+
+a.btn,a.btn-custom{
+background:#006826 !important;}
+
+span.overlay{background-color:#006826;}
+
+.de-menu {
+text-transform: none !important;
+}
+
+
+.info ul li {
+margin-bottom: 0 !important;
+margin-left: 10px;
+}
+
+#footer .social-icon-footer img {
+    margin: 2px 0px 0px 5px;
+    padding: 0px;
+}
+
+#footer .social-icon-footer img#facebook-icon,
+#footer .social-icon-footer img#instagram-icon {
+	height: auto;
+	width: 31px !important;
+}
+
+#footer .social-icon-footer img#tripadvisor {
+	width: 100px;
+	height: auto;
+}

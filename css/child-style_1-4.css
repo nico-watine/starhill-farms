@@ -193,16 +193,17 @@ margin-left: 10px;
 }
 
 #footer .social-icon-footer img {
-    height: auto;
     margin: 2px 0px 0px 5px;
     padding: 0px;
-    max-width: 100px;
-    width: auto;
 }
 
 #footer .social-icon-footer img#facebook-icon,
 #footer .social-icon-footer img#instagram-icon {
-height: 31px !important;
-max-width: auto !important;
-width: auto !important;
+	height: auto;
+	width: 31px !important;
+}
+
+#footer .social-icon-footer img#tripadvisor {
+	width: 100px;
+	height: auto;
 }

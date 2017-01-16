@@ -1,0 +1,343 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vierra\n"
+"POT-Creation-Date: 2014-10-22 14:12+0700\n"
+"PO-Revision-Date: 2014-10-22 14:18+0700\n"
+"Last-Translator: designesia <designesia@gmail.com>\n"
+"Language-Team: \n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\vierra\\wp-content\\themes"
+"\\vierra\n"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/404.php:12
+msgid "Page not found!"
+msgstr "Halaman tidak ditemukan!"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/admin/classes/class.options_machine.php:559
+msgid "Last Backup : "
+msgstr "Cadangan terakhir: "
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr "Pilihan"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr "Galeri"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr "Sebelumnya upload"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/category.php:46
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/index.php:45
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_blog.php:55
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/single.php:41
+msgid "By"
+msgstr "Oleh"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/category.php:46
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/index.php:45
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_blog.php:55
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_blog_masonry.php:61
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/slider/fullscreen-slider.php:44
+msgid "Read More"
+msgstr "Baca lebih lanjut"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/comments.php:3
+msgid "Comments"
+msgstr "Komentar"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/comments.php:17
+msgid "Your comment is awaiting moderation."
+msgstr "Komentar Anda sedang menunggu moderasi."
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/comments.php:33
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/comments.php:43
+msgid "Leave a Comment"
+msgstr "Tinggalkan komentar"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/comments.php:43
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr "Tinggalkan komentar ke %s"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/comments.php:50
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr "Anda harus %1$slogged in%2$s untuk mengirim komentar."
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/comments.php:57
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr "Login sebagai %1$s. %2$sLog out &raquo;%3$s"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/comments.php:57
+msgid "Log out of this account"
+msgstr "Log out dari account ini"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/comments.php:70
+msgid "Submit Comment"
+msgstr "Kirim komentar"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:12
+msgid "Add New Room Item"
+msgstr "Menambah Item baru kamar"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:13
+msgid "Edit Room Item"
+msgstr "Mengedit Item kamar"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:14
+msgid "New Room Item"
+msgstr "Item baru kamar"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:15
+msgid "View Room Item"
+msgstr "View Kamar Item"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:16
+msgid "Search Room"
+msgstr "Cari kamar"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:17
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:61
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:103
+msgid "Nothing found"
+msgstr "Tidak ditemukan"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:18
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:62
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:104
+msgid "Nothing found in Trash"
+msgstr "Tidak ditemukan di tempat sampah"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:40
+msgid "Room Categories"
+msgstr "Kategori kamar"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:40
+msgid "Room Category"
+msgstr "Kategori kamar"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:41
+msgid "Room Features"
+msgstr "Fitur-fitur Kamar"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:41
+msgid "Room Feature"
+msgstr "Kamar fitur"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:56
+msgid "Add New Gallery Item"
+msgstr "Menambah Item baru Galeri"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:57
+msgid "Edit Gallery Item"
+msgstr "Edit Galeri Item"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:58
+msgid "New Gallery Item"
+msgstr "Baru Galeri Item"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:59
+msgid "View Gallery Item"
+msgstr "Lihat Galeri Item"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:60
+msgid "Search Gallery"
+msgstr "Cari Galeri"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:84
+msgid "Gallery Categories"
+msgstr "Kategori Galeri"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:84
+msgid "Gallery Category"
+msgstr "Kategori Galeri"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:98
+msgid "Add New Slider Item"
+msgstr "Menambah Item baru Slider"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:99
+msgid "Edit Slider Item"
+msgstr "Mengedit Slider Item"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:100
+msgid "New Slider Item"
+msgstr "Item baru Slider"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:101
+msgid "View Slider Item"
+msgstr "Lihat Slider Item"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:102
+msgid "Search Slider"
+msgstr "Cari Slider"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-widget-social.php:21
+msgid "A widget that displays the social icons"
+msgstr "Sebuah widget yang menampilkan ikon sosial"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-widget-social.php:25
+msgid "DE Social Widget"
+msgstr "DE sosial Widget"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-widget-social.php:110
+msgid "Example"
+msgstr "Contoh"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-widget-social.php:110
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_contact.php:113
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_reservation.php:214
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:235
+msgid "Name"
+msgstr "Nama"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/functions.php:185
+msgid "Primary Menu"
+msgstr "Menu utama"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/functions.php:186
+msgid "Secondary Menu"
+msgstr "Menu Sekunder"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/index.php:53
+msgid "No result found"
+msgstr "Tidak ada hasil yang ditemukan"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page.php:26
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_contact.php:104
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_slider_extended.php:33
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_video_text.php:36
+msgid "Sorry, no posts found."
+msgstr "Maaf, tidak ada posting ditemukan."
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_contact.php:116
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_contact.php:123
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_contact.php:130
+msgid "Please check again."
+msgstr "Periksa lagi."
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_contact.php:120
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_reservation.php:230
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:251
+msgid "Email"
+msgstr "Email"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_contact.php:127
+msgid "Message"
+msgstr "Pesan"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_contact.php:138
+msgid "SEND"
+msgstr "KIRIM"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_contact.php:147
+msgid "Thank You! Your email was successfully sent."
+msgstr "Terima kasih! Email Anda berhasil dikirim."
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_gallery.php:55
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_gallery_2_columns.php:55
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_gallery_4_columns.php:55
+msgid "All"
+msgstr "Semua"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_reservation.php:175
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:196
+msgid "Error submitting the form"
+msgstr "Kesalahan menyerahkan formulir"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_reservation.php:182
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:203
+msgid "Select Room"
+msgstr "Pilih kamar"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_reservation.php:202
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:223
+msgid "Check In Date"
+msgstr "Tanggal Check In"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_reservation.php:207
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:228
+msgid "Check Out Date"
+msgstr "Tanggal Check Out"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_reservation.php:222
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:243
+msgid "Number of Person"
+msgstr "Jumlah orang"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_reservation.php:238
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:259
+msgid "Phone"
+msgstr "Telepon"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_reservation.php:248
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:269
+msgid "Comment"
+msgstr "Komentar"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_reservation.php:257
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:188
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:278
+msgid "Book Now"
+msgstr "Pesan sekarang"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_reservation.php:320
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:374
+msgid "Thank You! You will get confirmation shortly."
+msgstr "Terima kasih! Anda akan mendapatkan konfirmasi segera."
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_rooms.php:87
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_rooms_one_column.php:81
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_rooms_one_column_2.php:71
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_rooms_one_column_3.php:71
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_rooms_two_columns.php:87
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_rooms_two_columns_style_2.php:71
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/taxonomy-room_category.php:50
+msgid "View Room Details"
+msgstr "Lihat rincian kamar"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_rooms_one_column.php:90
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_rooms_one_column_2.php:92
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_rooms_one_column_3.php:80
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:165
+msgid "Room Facilities:"
+msgstr "Fasilitas Kamar:"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_rooms_one_column.php:112
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_rooms_one_column_2.php:114
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/page_rooms_one_column_3.php:102
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:183
+msgid "night"
+msgstr "malam"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:188
+msgid "Hide Booking Form"
+msgstr "Sembunyikan Form Pemesanan"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/single.php:50
+msgid "Pages:"
+msgstr "Halaman:"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/single.php:56
+msgid "Next page"
+msgstr "Halaman berikutnya"
+
+#: D:\xampp\htdocs\vierra\wp-content\themes\vierra/single.php:57
+msgid "Previous page"
+msgstr "Halaman sebelumnya"
+
+#~ msgid "Booking Now"
+#~ msgstr "Terakhir sekarang"

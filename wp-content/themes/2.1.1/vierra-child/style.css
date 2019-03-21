@@ -1,0 +1,211 @@
+/*
+
+Theme Name: Vierra-Child
+Theme URI: http://vierra.themenesia.com
+Description: Child Theme for Vierra v2.1.1
+Author: Designesia
+Author URI: http://themeforest.net/user/designesia/
+Tags: brown, purple, two-columns, custom-background
+Template: vierra
+
+*/
+
+@import url("../vierra/css/style.css");
+
+
+/* insert your custom css code here */
+
+.btn-book-now {
+	margin-bottom:30px;
+}
+
+.btn-book-now .off{
+	display:none;
+}
+
+.room-list.type-1 .btn-custom, 
+.single-room .btn-book-now{
+	display:block;
+	text-align:center;
+	text-transform:uppercase;
+	letter-spacing:3px;
+	color:#fff;
+	background:#513D32;
+	padding:10px 0 10px 0;
+	border-radius:none !important; 
+	-moz-border-radius:none; 
+	-webkit-border-radius:none;
+	text-shadow:none;
+}
+
+div#canvas,
+div.bg_pattern {
+background: none;
+}
+
+.room-list.type-1 .btn-custom:hover, 
+.single-room #btn-book-now:hover {
+background: #862f1d;
+}
+
+a.flex-next,
+a.flex-prev {
+opacity: 1 !important;
+}
+
+a#prevslide.load-item,
+a#nextslide.load-item,
+span#pauseplay.play,
+span#pauseplay.play.pause {
+opacity: 1 !important;
+}
+
+div.col-md-9.menu-container {
+padding-left: 0 !important;
+}
+
+.title-room-facilites {
+display: none !important;
+visibility: hidden !important;
+}
+
+.page-inner h3 {
+font-size: 30px;
+}
+
+header #mainlogo img {
+	max-height: 80px;
+}
+
+@media (max-width: 992px) {
+	header #mainlogo .inner {
+		height: auto;
+		padding-top: 0;
+	}
+
+	header #mainlogo img {
+		max-height: 62px;
+	}
+}
+
+.activities p {
+margin-top: -7px;
+}
+
+.activities h4 {
+font-weight: bold;
+}
+
+.activities ul {
+list-style-type: circle;
+}
+
+.activities ul li {
+font-size: 15px;
+}
+
+ul.sub-list {
+list-style-type: disc;
+padding-left: 23px;
+}
+
+.antiques h4 {
+font-size: 23px;
+text-align: center;
+line-height: 30px;
+}
+
+.about-p,
+.policies,
+.contact {
+font-size: 15px;
+line-height: 26px;
+}
+
+.about-h {
+text-align: center;
+margin-bottom: 20px;
+}
+
+.policies span,
+.contact span {
+font-weight: bolder;
+}
+
+.contact {
+text-align: center
+}
+
+.de_tab .de_nav li a.active {
+	color: #333333 !important;
+}
+
+.de_tab .de_nav li a {
+	color: #6e936b !important;
+}
+
+.de_tab .de_nav li a:hover {
+	background: #fff !important;
+}
+
+img.size-full.wp-image-471 {
+	margin: 0 auto;
+}
+
+.room-list.type-1 .info {
+	height: 300px;
+}
+
+.pp_description {
+display: block !important;
+}
+
+a#snc-credit {
+  text-decoration: none;
+  color: #888;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding-left: 10px; }
+  a#snc-credit span {
+    text-decoration: underline; }
+  a#snc-credit:hover {
+    color: #000;
+    text-decoration: underline; }
+
+.de-menu li li {    font-family:Lato;}
+
+.de-menu li li {    font-size: 16px}
+
+a.btn,a.btn-custom{
+background:#006826 !important;}
+
+span.overlay{
+	background-color:#006826 !important;
+}
+
+.de-menu {
+text-transform: none !important;
+}
+
+
+.info ul li {
+margin-bottom: 0 !important;
+margin-left: 10px;
+}
+
+#footer .social-icon-footer img {
+    margin: 2px 0px 0px 5px;
+    padding: 0px;
+}
+
+#footer .social-icon-footer img#facebook-icon,
+#footer .social-icon-footer img#instagram-icon {
+	height: auto;
+	width: 31px !important;
+}
+
+#footer .social-icon-footer img#tripadvisor {
+	width: 100px;
+	height: auto;
+}

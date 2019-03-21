@@ -1,0 +1,329 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vierra\n"
+"POT-Creation-Date: 2014-03-26 12:20+0700\n"
+"PO-Revision-Date: 2014-10-13 20:57-0300\n"
+"Last-Translator: designesia <designesia@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"Language: en\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\vierra\\wp-content\\themes"
+"\\vierra\n"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/404.php:12
+msgid "Page not found!"
+msgstr "Página não encontrada!"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/category.php:46
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/index.php:45
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_blog.php:55
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/single.php:37
+msgid "By"
+msgstr "Por"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/category.php:46
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/index.php:45
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_blog.php:55
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_blog_masonry.php:60
+msgid "Read More"
+msgstr "Ver Mais"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/comments.php:3
+msgid "Comments"
+msgstr "Comentários"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/comments.php:17
+msgid "Your comment is awaiting moderation."
+msgstr "Seu comentário está aguardando a moderação."
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/comments.php:33
+msgid "Comments are closed."
+msgstr "Os comentários estão encerrados."
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/comments.php:43
+msgid "Leave a Comment"
+msgstr "Deixe seu comentário"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/comments.php:43
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr "Deixe seu comentário para %s"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/comments.php:50
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr "Você precisa %1$slogged in%2$s para postar um comentário."
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/comments.php:57
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr "Logado como %1$s. %2$sSair &raquo;%3$s"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/comments.php:57
+msgid "Log out of this account"
+msgstr "Sair desta conta"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/comments.php:70
+msgid "Submit Comment"
+msgstr "Enviar Comentário"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/functions.php:187
+msgid "Primary Menu"
+msgstr "Menu Principal"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/functions.php:188
+msgid "Secondary Menu"
+msgstr "Menu Secundário"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/index.php:53
+msgid "No result found"
+msgstr "Nenhum resultado encontrado"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page.php:26
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_contact.php:103
+msgid "Sorry, no posts found."
+msgstr "Desculpe, nenhum post encontrado."
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_contact.php:112
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_reservation.php:211
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:230
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-widget-social.php:110
+msgid "Name"
+msgstr "Nome"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_contact.php:115
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_contact.php:122
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_contact.php:129
+msgid "Please check again."
+msgstr "Por favor, verifique novamente."
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_contact.php:119
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_reservation.php:227
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:245
+msgid "Email"
+msgstr "Email"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_contact.php:126
+msgid "Message"
+msgstr "Mensagem"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_contact.php:137
+msgid "SEND"
+msgstr "ENVIAR"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_contact.php:146
+msgid "Thank You! Your email was successfully sent."
+msgstr "Obrigado! Sua mensagem foi enviada com successo!"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_gallery.php:32
+msgid "All"
+msgstr "Todos"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_reservation.php:171
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:194
+msgid "Error submitting the form"
+msgstr "Erro ao enviar o formulário"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_reservation.php:178
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:198
+msgid "Select Room"
+msgstr "Selecionar Acomodação"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_reservation.php:199
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:221
+msgid "Check In Date"
+msgstr "Data Check-in"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_reservation.php:204
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:225
+msgid "Check Out Date"
+msgstr "Data Check-out"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_reservation.php:219
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:237
+msgid "Number of Person"
+msgstr "Quantidade de Pessoas"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_reservation.php:235
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:252
+msgid "Phone"
+msgstr "Fone"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_reservation.php:245
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:260
+msgid "Comment"
+msgstr "Comentário"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_reservation.php:254
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:265
+msgid "Book Now"
+msgstr "Reservar"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_reservation.php:317
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:411
+msgid "Thank You! You will get confirmation shortly."
+msgstr "Obrigado! Sua reserva será confirmada em breve!"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_rooms.php:56
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_rooms_two_columns.php:55
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/page_rooms_two_columns_style_2.php:40
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/taxonomy-room_category.php:56
+msgid "View Room Details"
+msgstr "Ver Detalhes"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:163
+msgid "Room Facilites:"
+msgstr "Amenidades"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:181
+msgid "night"
+msgstr "noite"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:186
+msgid "Booking Now"
+msgstr "Reservas"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/single-room.php:186
+msgid "Hide Booking Form"
+msgstr "Ocultar Reservas"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/single.php:46
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/single.php:52
+msgid "Next page"
+msgstr "Próxima"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/single.php:53
+msgid "Previous page"
+msgstr "Anterior"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/admin/classes/class.options_machine.php:559
+msgid "Last Backup : "
+msgstr "Último Backup:"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr "Opções"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr "Galeria"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr "Enviado Anteriormente"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:12
+msgid "Add New Room Item"
+msgstr "Adicionar Nova Acomodação"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:13
+msgid "Edit Room Item"
+msgstr "Editar Acomodação"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:14
+msgid "New Room Item"
+msgstr "Nova Acomodação"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:15
+msgid "View Room Item"
+msgstr "Ver Acomodação"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:16
+msgid "Search Room"
+msgstr "Procurar Acomodação"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:17
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:61
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:103
+msgid "Nothing found"
+msgstr "Nada foi encontrado"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:18
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:62
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:104
+msgid "Nothing found in Trash"
+msgstr "Nada foi encontrado na lixeira"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:40
+msgid "Room Categories"
+msgstr "Categorias Acomodações"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:40
+msgid "Room Category"
+msgstr "Categoria Acomodações"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:41
+msgid "Room Features"
+msgstr "Características Acomodações"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:41
+msgid "Room Feature"
+msgstr "Característica Acomodações"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:56
+msgid "Add New Gallery Item"
+msgstr "Adicionar Novo Item Galeria"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:57
+msgid "Edit Gallery Item"
+msgstr "Editar Item Galeria"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:58
+msgid "New Gallery Item"
+msgstr "Novo Item Galeria"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:59
+msgid "View Gallery Item"
+msgstr "Ver Item Galeria"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:60
+msgid "Search Gallery"
+msgstr "Buscar Galeria"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:84
+msgid "Gallery Categories"
+msgstr "Categoria Galerias"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:84
+msgid "Gallery Category"
+msgstr "Categoria Galeria"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:98
+msgid "Add New Slider Item"
+msgstr "Adicionar Novo Item Slider"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:99
+msgid "Edit Slider Item"
+msgstr "Editar Item Slider"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:100
+msgid "New Slider Item"
+msgstr "Novo Item Slider"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:101
+msgid "View Slider Item"
+msgstr "Verificar Item Slider"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-theme-post-type.php:102
+msgid "Search Slider"
+msgstr "Buscar Slider"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-widget-social.php:21
+msgid "A widget that displays the social icons"
+msgstr "Um widget para exibir os ícones de redes sociais"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-widget-social.php:25
+msgid "DE Social Widget"
+msgstr "DE Social Widget"
+
+#: C:\xampp\htdocs\vierra\wp-content\themes\vierra/designesia/de-widget-social.php:110
+msgid "Example"
+msgstr "Exemplo:"
